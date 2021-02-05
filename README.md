@@ -1,1 +1,1 @@
-# ReactProjects-Ch01MovieList-U
+# React Projects Ch 1: Movie List (Build on Ubuntu laptop)  
